@@ -6,13 +6,6 @@ package by.Kazhan;
 public class gasStation
 {
 
-  public void  fiilCar(Car car)
-  {
-      car.fill(car.getmaxTheVolumeOfGasoline()-car.getCurrentTheVolumeOfGasoline());
-  }
-  public void  fiilCar(Car car, double cash)
-  {
-      car.fill(car.getmaxTheVolumeOfGasoline()-car.getCurrentTheVolumeOfGasoline());
-  }
+
 
 }
